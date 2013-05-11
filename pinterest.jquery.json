@@ -1,0 +1,35 @@
+{
+    "name": "pinterest",
+    "title": "pinterest",
+    "description": "Get Pinterest pints to create custom boards and facebook tabs.",
+    "keywords": [
+        "pinterest",
+        "facebook",
+	"feed"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Yedinci Kat",
+        "url": "https://github.com/yedincikat"
+    },
+    "maintainers": [
+        {
+            "name": "Yedinci Kat",
+            "email": "info@yedincikat.net",
+            "url": "http://www.yedincikat.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/yedincikat/Pinterest/issues",
+    "homepage": "https://github.com/yedincikat/Pinterest",
+    "docs": "https://github.com/yedincikat/Pinterest",
+    "download": "https://github.com/yedincikat/Pinterest",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
