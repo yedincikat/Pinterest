@@ -1,0 +1,103 @@
+﻿
+
+/* pinterest Api CSS */
+
+a {text-decoration:none;}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:active  {text-decoration:none;}
+
+#mainPinterest p {margin-top: 0; margin-bottom: 0;}
+
+#mainPinterest {
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+#mainPinterest .space {
+height:30px;
+}
+
+#mainPinterest .pHeader {
+padding:10px;
+background-color:#1a1a1a;
+}
+
+#mainPinterest .pinterestStats{
+padding-top:5px;
+padding-bottom:5px;
+padding-right:2px;
+}
+
+#mainPinterest .pinterestStats a{
+font-family:RBNlight;
+color:#ca1425;
+font-size:9pt;
+padding-top:5px;
+padding-bottom:5px;
+}
+#mainPinterest .pinterestStats a:hover{
+color:#ffffff;
+}
+#mainPinterest .pinterestStats a:visited{
+color:#ca1425;
+}
+#mainPinterest #pinterestName {
+font-family:RBNbook;
+font-size:18pt;
+color:#ffbe2e;
+padding-top:4px;
+}
+#mainPinterest #pinterestDesc {
+font-family:RBNbook;
+font-size:10pt;
+color:#636363;
+padding-top:4px;
+}
+.pint 
+{
+    width:90%;
+    height:auto;
+    padding-top:10px;
+    }
+
+.fullPinText 
+{
+font-family:RBNlight;
+font-size:9pt;
+color:#afadad;
+padding-right:5px;
+}
+
+.pinDate
+{
+font-family:RBNlight;
+font-size:7pt;
+color:#636363;
+padding-right:5px;
+}
+
+.section-share a 
+{
+	display: block;
+	width: 16px;
+	height: 16px;
+	float: left;
+	margin: 0 2px 0 0;
+	background: url(../img/share.png) no-repeat 0 0;
+}
+.section-share a.share-twitter 
+{
+margin-top:5px;
+	background-position: 0 -16px;
+}
+.section-share a.share-facebook:hover {
+	background-position: -16px 0;
+}
+.section-share a.share-twitter:hover {
+	background-position:  -16px -16px;
+}
+
+
+/* pinterest Api CSS */
